@@ -14,9 +14,9 @@ Click Properties...
 Select Local Files tab
 Click Browse
 Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
-Download linkarus_releveling_P.pak from this page and put it in the mods folder.
+Download the .pak from this page and put it in the mods folder.
 All done, start the game
-To uninstall, simply delete the linkarus_releveling_P.pak
+To uninstall, simply delete the .pak
 
 Compatibility with other mods and future patches
 Mod is expected to survive game updates.
