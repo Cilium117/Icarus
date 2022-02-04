@@ -1,6 +1,7 @@
 Mods for Icarus
 
 In-game effects:
+
 Carbonetik: Removed Swim Speed reduction and replaced with +10% Movement Speed on the Naneo Armor Set. Doubled the Naneo effects for the Composite Armor Set to make it competative with the Naneo Set.
 
 Shengong Bow+: Added +100% Damage to the Shengong Workshop bows. Have only tested with the Zhang Hu bow. Couldn't test with other Shengong Bows as I don't own them. 
